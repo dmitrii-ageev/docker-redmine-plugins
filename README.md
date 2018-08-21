@@ -125,5 +125,5 @@ To upgrade to newer releases, simply pull the new image from the Docker hub, rec
 
 # Author
 
- **Dmitrii Ageev** [<d.ageev@gmail.com>](mailto:d.ageev@gmail.com)
+ **Dmitrii Ageev** [(d.ageev@gmail.com)](mailto:d.ageev@gmail.com)
 

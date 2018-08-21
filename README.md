@@ -88,7 +88,7 @@ services:
       - redmine-database:/var/lib/mysql
 
   redmine:
-    image: dmitriiageev/redmine
+    image: redmine
     restart: always
     depends_on:
       - postgres

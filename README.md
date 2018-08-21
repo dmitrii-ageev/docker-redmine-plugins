@@ -118,12 +118,12 @@ To upgrade to newer releases, simply pull the new image from the Docker hub, rec
 
 # References
 
- * Redmine . . . . https://www.redmine.org
- * Easy Redmine. . https://www.easyredmine.com
- * RedmineUP . . . https://www.redmineup.com
- * RM+ . . . . . . https://rmplus.pro
+ * [Redmine](https://www.redmine.org)
+ * [Easy Redmine](https://www.easyredmine.com)
+ * [RedmineUP](https://www.redmineup.com)
+ * [RM+](https://rmplus.pro)
 
 # Author
 
- **Dmitrii Ageev** <d.ageev@gmail.com>
+ **Dmitrii Ageev** [<d.ageev@gmail.com>](mailto:d.ageev@gmail.com)
 

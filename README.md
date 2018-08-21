@@ -91,7 +91,8 @@ services:
     image: redmine
     restart: always
     depends_on:
-      - postgres
+      #- postgres
+      - mysql
       - redmine-plugins
       - redmine-themes
     environment:
